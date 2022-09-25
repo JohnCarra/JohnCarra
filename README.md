@@ -1,4 +1,4 @@
-<img align="center" src""/>
+<img align="center" src"https://raw.githubusercontent.com/JohnCarra/JohnCarra/main/banner.jpg"/>
 
 <h1 align="center">Hello 👋, I'm Johnathan</h1>
 <h3 align="center">I'm a senior at California State University, Fullerton and I am majoring in Computer Science</h3>
