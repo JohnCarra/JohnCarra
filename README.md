@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Johnathan</h1>
 <h3 align="center">I'm a senior at California State University, Fullerton and I am majoring in Computer Science</h3>
+<h3 align="center">Computers and Technology as a whole is something I'm very passionate about.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johncarra" alt="johncarra" /></a> </p>
 
