@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnathan Carranza</h1>
-<h3 align="center">M.S. Computer Science (AI/ML), WGU | B.S. Computer Science, CSUF</h3>
+<h3 align="center">M.S. Computer Science (AI/ML) | B.S. Computer Science </h3>
 <h4 align="center">I build secure, scalable, and modern software using C#, .NET, and cloud-native tools.</h4>
 
 ---
