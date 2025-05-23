@@ -5,10 +5,10 @@
 ---
 
 🎓 **Education**  
-- **M.S. in Computer Science (AI/ML Specialization)** — *In Progress at Western Governors University*  
+- **M.S. in Computer Science (AI/ML Specialization)** — *In Progress* 
   - Focus: Machine Learning, Deep Learning, Natural Language Processing, Ethical AI Development  
-- **M.S. in Cybersecurity & Information Assurance** — *Western Governors University*  
-- **B.S. in Computer Science** — *California State University, Fullerton*
+- **M.S. in Cybersecurity & Information Assurance**
+- **B.S. in Computer Science**
 ---
 
 ### 🛠️ Languages & Tools
@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
