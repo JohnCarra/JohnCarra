@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Johnathan Carranza</h1>
-<h3 align="center">M.S. Computer Science (AI/ML) Candidate • M.S. Cybersecurity • B.S. Computer Science</h3>
-<h4 align="center">Building secure, intelligent systems with C#, .NET, and AI</h4>
+<h1 align="center">Hi 👋, I'm John </h1>
+<h3 align="center">M.S. Computer Science (AI/ML) • B.S. Computer Science</h3>
+<h4 align="center">Backend Developer • Cybersecurity Enthusiast • AI Engineering</h4>
 
 ---
 
@@ -9,9 +9,7 @@
 ---
 
 ### 🎓 Education  
-- **M.S. in Computer Science (AI/ML Specialization)** — *In Progress*  
-  - Focus: Machine Learning, Deep Learning, Natural Language Processing, Ethical AI Development  
-- **M.S. in Cybersecurity & Information Assurance**  
+- **M.S. in Computer Science (AI/ML Specialization)** 
 - **B.S. in Computer Science**
 
 ---
@@ -52,18 +50,5 @@
 
 ### 🔄 What I'm Doing Now
 
-- 🎓 Studying advanced machine learning (currently deep diving into transformers + NLP)
-- 🧪 Experimenting with Blazor + C# to build smarter UI experiences
-- 🛠 Rebuilding some of my past tools with better design and scalability
-- 🎮 Playing around with old-school game engines in .NET for fun
-- ☕ Currently powered by black coffee and weird GitHub issues
-
----
-
-### ✨ Just for Vibes
-
-> “Code is a conversation between you and the future. Write something worth reading.”
-
----
-
+- 🔭 **Currently Learning:** Practical Deep Learning for Coders (@course.fast.ai)
 
